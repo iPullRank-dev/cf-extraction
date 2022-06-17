@@ -195,7 +195,7 @@ exports.puppeteerExtractor = async (req, res) => {
       sentiments.push({
         sentence: s.out(),
         sentiment: s.out(its.sentiment),
-        // speech: tagger.tagSentence( s.out()) // lots more data, but not always needed
+        speech: tagger.tagSentence( s.out()) // lots more data, but not always needed
       })
     })
 
