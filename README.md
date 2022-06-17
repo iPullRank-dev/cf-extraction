@@ -9,7 +9,7 @@ Most of the code is in ```index.js``` but there is a helper classes in ```/helpe
 
 You should be able to just ```npm install``` and run locally  ```npm start``` but you can also deploy to Google Cloud Function, although I would recommend adding authentication as to not open an endpoint to the world.
 
-Take a look at the [Sample Output](sample.json) for ```https://ipullrank.com/enterprise-seo``` and Keyword SEO
+Take a look at the [Sample Output](sample.json) for [https://ipullrank.com/enterprise-seo](https://ipullrank.com/enterprise-seo) and Keyword SEO
 
 ## Contributors
 * Mike King @ipullrank
